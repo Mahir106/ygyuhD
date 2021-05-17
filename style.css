@@ -1,0 +1,76 @@
+body {
+    text-align: center;
+}
+
+.profile {
+    height: 100%;
+    width: 85%;
+}
+.album{
+    height: 200px;
+    width: 270px;
+    border: solid;
+    border-width: 3px;
+    border-color: darkviolet;
+    border-spacing: 2px;
+}
+.album2{
+    height: 200px;
+    width: 270px;
+    border: solid;
+    border-width: 3px;
+    border-color: darkviolet;
+}
+#Home {
+    padding: 70px;
+    margin: 20px;
+    background-color: palevioletred;
+    display: table;
+    width: 100%;
+    height: 400px;
+}
+.menu {
+    font-family: sans-serif;
+    position: fixed;
+    top:0px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    background-color: white;
+
+}
+.links {
+    list-style: none;
+    color: yellow;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-right: 9px;
+    padding-left: 9px;
+    display: inline;
+}
+h1{
+    font-size: 30;
+    color: darkblue;
+}
+#Grids{
+    text-align: center;
+    background-color: orange;
+}
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+p{
+    font-size:30px;
+    color: white;
+}
+img{
+    height: 700px;
+    width: 700px;
+}
+#Slides{
+    background-color: red;
+    text-align: center;
+}
